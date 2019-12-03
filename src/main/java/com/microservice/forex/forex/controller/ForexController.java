@@ -32,6 +32,7 @@ public class ForexController {
          exchangeValue.setPort(
                  Integer.parseInt(environment.getProperty("local.server.port")));
      }
+     //to check git
 
         else
         {
